@@ -1,4 +1,4 @@
-Ext.require('Ext.container.Viewport');
+Ext.require(['Ext.container.Viewport']);
 // Ext.application({
 //     name: 'HelloExt',
 //     launch: function() {
